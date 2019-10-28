@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+# User specified
+toms_key.R
+
 # Session Data files
 .RData
 
